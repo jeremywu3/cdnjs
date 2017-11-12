@@ -14,13 +14,7 @@
     "name": "M. Alsup",
     "url": "http://jquery.malsup.com"
   },
-  "licenses": [
-    "MIT",
-    {
-      "type": "GPL",
-      "url": "http://malsup.github.com/gpl-license-v2.txt"
-    }
-  ],
+  "licenses": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/malsup/blockui"
